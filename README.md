@@ -3,7 +3,7 @@ This project is Mbed OS software for quadrotor drone. It was conducted as a grad
 Developed in [Arm Keil Studio Cloud](https://studio.keil.arm.com/) without Git/GitHub, resulting in no version control, with only the final product being published.
 
 # Hardware
-Development was carried out by modifying the existing entry-level drone, **SYMA X5**, to replace its original embedded system. The software of remote controller was provided by the lab, while only the hardware was built manually.
+Development was carried out by modifying the existing entry-level drone, **SYMA X5**, to replace its original embedded system. The software of remote controller was provided by the lab, while only the hardware was assembled manually.
 
 ## Drone
 
@@ -13,7 +13,7 @@ Development was carried out by modifying the existing entry-level drone, **SYMA 
 - microcontroller(MCU): mbed LPC1768; [offcial page](https://os.mbed.com/platforms/mbed-LPC1768/)
 - IMU sensor: MPU9250; 9-axis motion tracking device
 - RF module: nRF24L01; wireless transceiver module
-- original drone product: SYMA X5
+- body & motor: SYMA X5
 
 ![image](https://github.com/user-attachments/assets/913c57f7-75e1-40df-8811-07e119b9ff5d)
 
